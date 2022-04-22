@@ -4,7 +4,7 @@ const Navbar = () => {
             <a href="#">Home</a>
             <a href="#">Sell</a>
             <a href="#">Shop</a>
-            <a href="#">Cart</a>
+            <a href="#">Items</a>
         </nav>
     )
 }
